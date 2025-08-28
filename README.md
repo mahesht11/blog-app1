@@ -9,7 +9,8 @@ step 5: Added Exceptions
 step 6: Added Validations
 step 7: Added base authentication
 step 8: Added login and register api's
-step 9: Added Category api's
+step 9: Added Category api's and docker file
+step 10: Added jwt token classess
 
 
 swagger URL:
